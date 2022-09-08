@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oblivyus-kp
-- 👀 I’m interested in gaming
+- 👀 I’m interested in gaming and web development
 - 🌱 I’m currently going through the odin project!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me - my email
